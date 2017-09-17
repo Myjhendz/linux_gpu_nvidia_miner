@@ -1,0 +1,1 @@
+# linux_gpu_nvidia_miner
